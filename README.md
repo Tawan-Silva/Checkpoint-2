@@ -5,7 +5,7 @@
 #### Email 
 #### Telefone (apenas números)
 #### Data de nascimento (data)
-#### e é maior ou menor de idade (deve ter as duas opções, podendo marcar apenas uma delas).
+#### Se é maior ou menor de idade (deve ter as duas opções, podendo marcar apenas uma delas).
 #### Um campo que permita que o usuário selecione um ponto de interesse na sua cidade. (De uma lista de no mínimo 3).
 #### Um campo opcional onde o usuário poderá dizer quais seus interesses na cidade: Turista, Residente e Estudante. Note que o usuário pode escolher nenhum ou mais que um.
 #### O formulário deve ter um botão para enviar e um botão para resetar os dados digitados.
