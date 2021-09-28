@@ -1,6 +1,6 @@
 # Instruções
 
-# O formulário de cadastro deve ter no mínimo 6 inputs:
+# O formulário de cadastro deve ter no mínimo 6 inputs: #
 #Nome (com no máximo 100 caracteres)
 #Email 
 #Telefone (apenas números)
